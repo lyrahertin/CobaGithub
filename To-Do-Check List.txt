@@ -1,0 +1,4 @@
+To-Do-Check List SRS SIAKAD SMKN 5
+1. 26 September 2022 - A, B, dan C menghubungi Kepala Sekolah untuk requirement gathering
+2. 27 September 2022 - C dan D menghubungi Waka Sekolah bagian akademik untuk menanyakan proses akademik di SMKN 5
+3. 28 September 2022 - A, B, C, dan D membuat SRS
